@@ -1,0 +1,82 @@
+.header {
+  margin-top: 60px;
+  font-style: inherit;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.header h1 {
+  text-align: center;
+  background-color: grey;
+  color: white;
+}
+.kapus img {
+  border-style: dashed;
+  border: 2px solid green;
+  width: 20%;
+  float: left;
+  margin-right: 20px;
+  margin-left: 20px;
+  position: relative;
+}
+/* .article p { */
+
+article {
+  margin: 8px;
+  text-align: justify;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-style: italic;
+}
+h5 {
+  margin-left: 5px;
+}
+h3 {
+  margin-left: 5px;
+}
+.vm {
+  background-color: lightgrey;
+  text-align: center;
+  /* background-size: cover; */
+  height: 100px;
+  margin-top: -20px;
+}
+.vm h3 {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border: 5px solid;
+  background-color: lightgrey;
+}
+.bersama {
+  width: 100%;
+  background-color: lightgray;
+  position: relative;
+  padding: 20px;
+  /* padding-left: 150px; */
+}
+
+.paralax {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  margin: 8px;
+  background-color: lightskyblue;
+  position: relative;
+}
+.paralax .paralaximg {
+  width: 200px;
+  height: 180px;
+  margin: 10px;
+  padding-bottom: 5px;
+  position: relative;
+  border-radius: 10px;
+}
+.motto {
+  background-color: lightskyblue;
+  margin-left: 8px;
+  padding-left: 50px;
+}
+.strategi {
+  background-color: lightgreen;
+  margin-left: 8px;
+  padding-left: 50px;
+  padding-top: 10px;
+}

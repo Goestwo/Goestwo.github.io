@@ -1,0 +1,19 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgba(130, 247, 20, 0.986);
+}
+
+#project {
+  background-color: rgba(130, 247, 20, 0.986);
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery.row > * {
+  padding-top: 5rem;
+}

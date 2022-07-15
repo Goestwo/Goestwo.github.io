@@ -1,0 +1,72 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #a2d9ff;
+}
+
+#Lansia {
+  background-color: #a2d9ff;
+}
+
+#Gigi {
+  background-color: #a2d9ff;
+}
+
+#Apotik {
+  background-color: #a2d9ff;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery.row > * {
+  padding bottom:5rem;
+}
+#Umum {
+  padding-top: 4rem;
+}
+#Lansia {
+  padding-top: 4rem;
+}
+#KIA {
+  padding-top: 4rem;
+}
+#Gigi {
+  padding-top: 4rem;
+}
+#Lab {
+  padding-top: 4rem;
+}
+#Apotik {
+  padding-top: 4rem;
+}
+
+
+body{
+  font: 16px/28px arial, sans-serif;
+  background-color: #eaeaea;
+  color:#33333;
+
+
+}
+
+
+.container{
+  width:800px;
+  margin:auto;
+  background-color: ffffff;
+
+}
+#icon
+{
+  position: relative;
+  text-align: start;
+  padding-left: 2rem;
+}
+
+
+
+
